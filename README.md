@@ -33,7 +33,6 @@ I am a data science professional with a strong passion for working at the inters
 
 ---
 ## 📬 Get in Touch
-- **Email:** [deepmehta827@gmail.com](mailto:deepmehta827@gmail.com)
 - **LinkedIn:** [Deep Mehta](https://www.linkedin.com/in/deepmehta27)
 
 ---

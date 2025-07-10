@@ -8,11 +8,11 @@ I am a passionate data science professional who thrives at the intersection of *
 ---
 
 ## 🚀 Skills & Expertise
-- **Programming:** Python, SQL
-- **Machine Learning & AI:** Supervised/Unsupervised Learning, NLP, TensorFlow, PyTorch, Keras, LangChain, RAG, Generative AI
-- **Cloud & Databases:** AWS (EC2, S3, RDS, Bedrock), MySQL, MongoDB, ChromaDB
-- **DevOps & Tools:** Docker, Git, GitHub, Render
-- **Data Analysis & Visualization:** Pandas, NumPy, Power BI, Streamlit, Matplotlib, Seaborn
+- **Programming & Frameworks:** Python, Pandas, NumPy, FastAPI, SQLAlchemy
+- **Generative AI & NLP:** OpenAI LLMs & API, LangChain, Retrieval-Augmented Generation (RAG), AI Agents, Prompt Engineering, TensorFlow, PyTorch, Scikit-learn, LlamaIndex, Hugging Face Transformers (BERT), spaCy, SHAP (Explainable AI)
+- **Data Engineering & Databases:** ETL Pipelines, Vector Databases (ChromaDB, FAISS), PostgreSQL, MySQL, MongoDB
+- **Cloud & DevOps:** AWS, Docker, Docker Compose, Git/GitHub, CI/CD, n8n automation
+- **Data Analysis & Visualization:** Tableau, Power BI, Streamlit, Plotly, Matplotlib, Seaborn
 
 ---
 

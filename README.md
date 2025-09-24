@@ -1,9 +1,16 @@
 # Deep Mehta — Data Science | ML | GenAI
 
 ## 👋 About Me
-I am an early-career **Data Scientist (M.S. Data Science, Pace University, May 2025)** with hands-on experience in **ML, NLP, and GenAI applications**. My work spans from **fine-tuning BERT for document classification (macro-F1 80→94)** to **deploying low-latency RAG pipelines** (200 ms retrieval, +80% throughput) and **building interpretable clustering apps with SHAP**.  
+I’m a **Data Scientist & AI Engineer** who loves turning raw data into **production-ready ML systems**.  
+From **data ingestion and modeling** to **deployment and monitoring**, I thrive on building pipelines and applications that move seamlessly from prototype to scale.
 
-I enjoy transforming raw data into **practical, production-ready systems** — shipping ETL pipelines, ML APIs, and analytics dashboards with Python, FastAPI, Docker, and AWS.  
+🔍 **Recent focus areas:**
+- Retrieval-Augmented Generation (RAG) pipelines with sub-second retrieval  
+- Explainable clustering apps powered by SHAP  
+- AI-powered study assistants that combine NLP + usability  
+
+⚡ **What drives me:** making ML not just accurate, but **fast, interpretable, and user-friendly**.  
+Whether it’s an ETL pipeline, an ML API, or an analytics dashboard, I build with **Python, FastAPI, Docker, and AWS** to deliver solutions that create real impact.
 
 🔭 **Target roles:** Data Scientist (Associate/I), Applied ML Engineer (Entry), NLP/LLM Data Scientist  
 

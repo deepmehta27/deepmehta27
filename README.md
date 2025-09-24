@@ -1,46 +1,48 @@
-# 💫 Deep Mehta – Data Science Professional
+# Deep Mehta — Data Science | ML | GenAI
 
-## About Me 🚀
-I am a passionate data science professional who thrives at the intersection of **data-driven insights**, **computer vision**, and **AI-powered technologies**. My academic background (MS in Data Science, Pace University) and hands-on project experience have equipped me with deep expertise in **generative AI**, **machine learning**, and **cloud computing**. I excel at architecting advanced, scalable AI solutions—from virtual patient simulators to real-time web content extraction systems—that optimize performance and elevate user experiences.
+## 👋 About Me
+I am an early-career **Data Scientist (M.S. Data Science, Pace University, May 2025)** with hands-on experience in **ML, NLP, and GenAI applications**. My work spans from **fine-tuning BERT for document classification (macro-F1 80→94)** to **deploying low-latency RAG pipelines** (200 ms retrieval, +80% throughput) and **building interpretable clustering apps with SHAP**.  
 
-🤝 **Collaboration is at the heart of my work.** I love partnering with fellow innovators to transform complex challenges into actionable, data-driven solutions. I believe the best results come from open communication, shared learning, and building trust within cross-functional teams.
+I enjoy transforming raw data into **practical, production-ready systems** — shipping ETL pipelines, ML APIs, and analytics dashboards with Python, FastAPI, Docker, and AWS.  
+
+🔭 **Target roles:** Data Scientist (Associate/I), Applied ML Engineer (Entry), NLP/LLM Data Scientist  
 
 ---
 
-## 🚀 Skills & Expertise
-- **Programming & Frameworks:** Python, Pandas, NumPy, FastAPI, SQLAlchemy
-- **Generative AI & NLP:** OpenAI LLMs & API, LangChain, Retrieval-Augmented Generation (RAG), AI Agents, Prompt Engineering, TensorFlow, PyTorch, Scikit-learn, LlamaIndex, Hugging Face Transformers (BERT), spaCy, SHAP (Explainable AI)
-- **Data Engineering & Databases:** ETL Pipelines, Vector Databases (ChromaDB, FAISS), PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Docker Compose, Git/GitHub, CI/CD, n8n automation
-- **Data Analysis & Visualization:** Tableau, Power BI, Streamlit, Plotly, Matplotlib, Seaborn
+## ⚡ Skills & Expertise
+- **Programming & DS:** Python, SQL, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, SHAP, spaCy  
+- **NLP/GenAI:** Hugging Face (BERT), OpenAI (agents, embeddings), RAG, LangChain/LangGraph, Prompt Engineering  
+- **Data & Cloud:** ETL, PostgreSQL, ChromaDB/FAISS, Supabase, FastAPI, Docker, AWS, CI/CD  
+- **Analytics & Apps:** Streamlit, Power BI, React/TypeScript  
 
 ---
 
 ## 📂 Featured Projects
+### 🧑‍⚕️ Patient Clustering for Readmission Risk — [Streamlit App](https://patient-cluster.streamlit.app/) | [GitHub](https://github.com/deepmehta27/Capstone_Project)
+- Unsupervised stratification of 130k+ patient records using HDBSCAN.  
+- SHAP-powered interpretability with an interactive Streamlit dashboard and cohort exploration.  
 
-### Flamingo Cares – AI-Powered Virtual Patient Chatbot
-- **Objective:** Developed a conversational simulator for medical trainees, integrating AWS (S3, Textract, Bedrock) and Titan Text Embeddings for dynamic, realistic diagnostic interactions.
-- **Technical Highlights:** Automated case ingestion and streamlined history analysis, enhancing the learning experience.
-- **Impact:** Simulated real-world scenarios and streamlined case history analysis through automation.
+### 🎓 Memory Palace — AI Study Assistant — [GitHub](https://github.com/deepmehta27/Memory-Palace)
+- CLI-based learning tool powered by Gemini CLI & embeddings.  
+- Generates flashcards, quizzes, and supports multi-format ingestion (PDF, Markdown, text).  
 
-### WebChat–Assistant–AI–Powered Website Interaction
-- **Objective:** Engineered a web content extraction tool using LangChain, BeautifulSoup, OpenAI API, and RAG with ChromaDB, transforming static pages into interactive Q&A sessions.
-- **Technical Highlights:** Achieved significant latency reductions and boosted user engagement for scalable, cloud-hosted applications.
+### 🖥️ MCP Navigator — Multi-Agent CLI — [GitHub](https://github.com/deepmehta27/MCP_Navigator)
+- LangGraph-powered command-line assistant orchestrating multiple MCP servers.  
+- Automates browsing, structured extraction, and workflow execution.  
 
-### NeuralBee – Beehive Health Monitoring System
-- **Objective:** Built a multimodal system to detect Varroa mite infestations and monitor beehive health using YOLO models (96.2% visual precision) and advanced audio analysis (99.8% sound classification accuracy).
-- **Impact:** Delivered robust, early detection for optimal beehive well-being.
+### 🐝 NeuralBee — Beehive Health Monitoring — [IEEE Paper](https://ieeexplore.ieee.org/document/10104935) | [GitHub](https://github.com/deepmehta27/Voxel_Hackathon)
+- Multimodal detection system for bee health (YOLO vision: 96.2%, audio: 99.8%).  
+- Published at IEEE CSCITA 2023.  
 
 ---
 
 ## 🏆 Achievements & Certifications
-
-- 1st Place – Voxel51 Visual AI Hackathon: Virtual Fencing for Railway Safety
-- AWS Certified Cloud Practitioner
-- Published researcher in AI & healthcare analytics (IEEE CSCITA 2023)
+- 🥇 1st Place — Voxel51 Visual AI Hackathon (Virtual Fencing for Railway Safety)  
+- 📜 AWS Certified Cloud Practitioner (May 2025)  
+- 📖 Peer-reviewed Author — IEEE CSCITA 2023  
 
 ---
 
-## 📬 Let’s Connect!
-🔗 LinkedIn: https://linkedin.com/in/deepmehta27  
-
+## 📬 Let’s Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/deepmehta27)  
+- 🖥️ [Portfolio Projects on GitHub](https://github.com/deepmehta27?tab=repositories)  

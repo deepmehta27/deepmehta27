@@ -117,7 +117,7 @@ Unsupervised patient stratification with HDBSCAN and SHAP-powered interpretabili
 
 ### 🐝 **NeuralBee — Beehive Health Monitoring**
 
-[IEEE Paper](https://ieeexplore.ieee.org/document/10104935) |
+[IEEE Paper](https://ieeexplore.ieee.org/document/10104935)
 
 A multimodal system detecting beehive health via vision and audio, published at IEEE CSCITA 2023.
 

@@ -138,6 +138,3 @@ A multimodal system detecting beehive health via vision and audio, published at 
 
 * 🔗 **LinkedIn:** [https://linkedin.com/in/deepmehta27](https://linkedin.com/in/deepmehta27)
 * 🖥️ **GitHub:** [https://github.com/deepmehta27](https://github.com/deepmehta27)
-
-
-Just tell me what you want next!

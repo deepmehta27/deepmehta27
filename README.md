@@ -117,7 +117,7 @@ Unsupervised patient stratification with HDBSCAN and SHAP-powered interpretabili
 
 ### 🐝 **NeuralBee — Beehive Health Monitoring**
 
-[IEEE Paper](https://ieeexplore.ieee.org/document/10104935) | [GitHub](https://github.com/deepmehta27/Voxel_Hackathon)
+[IEEE Paper](https://ieeexplore.ieee.org/document/10104935) |
 
 A multimodal system detecting beehive health via vision and audio, published at IEEE CSCITA 2023.
 
@@ -129,10 +129,8 @@ A multimodal system detecting beehive health via vision and audio, published at 
 
 ## 🏆 Achievements & Certifications
 
-* 🥇 **1st Place** — Voxel51 Visual AI Hackathon (Railway Safety)
-* 📜 **AWS Certified Cloud Practitioner**
-* 📖 **Peer-Reviewed Author** — IEEE CSCITA 2023
-
+* 🥇 **1st Place** — Voxel51 Visual AI Hackathon | [GitHub](https://github.com/deepmehta27/Voxel_Hackathon)
+* 📜 **AWS Certified Cloud Practitioner** | [Credly Badge](https://www.credly.com/badges/32016770-a0f0-49b1-9e42-1470da080a27/public_url)
 
 ## 📬 Let’s Connect
 

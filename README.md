@@ -104,7 +104,7 @@ An AI app generation platform: from a prompt, to a live sandbox, to a deployed a
 
 ## Credentials
 
-- **Claude Certified Architect – Foundations**, 2026 · [Credly](CREDLY_LINK_HERE)
+- **Claude Certified Architect – Foundations**, 2026 · [Credly](https://www.credly.com/badges/6cd3ec08-e826-4f33-9254-2707b4bd4ec5/linked_in?t=tjqwiw)
 - **AWS Certified Cloud Practitioner** · [Credly](https://www.credly.com/badges/32016770-a0f0-49b1-9e42-1470da080a27/public_url)
 - **MS Data Science**, Pace University (GPA 3.97) · **BE Information Technology**, Mumbai University
 

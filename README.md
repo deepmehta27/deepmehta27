@@ -37,19 +37,16 @@ flowchart LR
 Status: design stage. Measured results replace plans as each piece lands.
 
 ---
-
 ## At work
 
-**SDE 1, Uniqus Consultech** · Mar 2026 to now
+**SDE 1, Uniqus Consultech** · Mar 2026 to now<br/>
 An AI app generation platform: from a prompt, to a live sandbox, to a deployed app.
 
-- **Generation pipeline.** Contract-first parallel code generation, with the interface frozen before backend and frontend work splits. Schema healing, preflight validation and one-click failure recovery. Sandbox boot time cut 4x.
-- **Prototype to production.** Hardened concurrency for fifty simultaneous users, built an observability console that traces a generation end to end, and gated releases behind deterministic end-to-end tests.
-- **Identity and access.** SSO, Keycloak RBAC and multi-tenant isolation, then a redesign from role-based to grant-based authorisation.
+- **Generation pipeline.** Contract-first parallel code generation, with the interface frozen before backend and frontend work splits. Schema healing, preflight validation and one-click failure recovery. Sandbox boot time cut several-fold.
+- **Prototype to production.** Hardened concurrency for multi-user load, built an observability console that traces a generation end to end, and gated releases behind deterministic end-to-end tests.
+- **Identity and access.** SSO, role-based access control and multi-tenant isolation, then a redesign from role-based to grant-based authorisation.
 - **Cost governance.** Per-call spend metering and budget enforcement before billable work, shipped in monitoring-only mode first.
 - **Reliability.** Removed a class of bugs where the system reported success on partial or interrupted work, and added human approval gates for irreversible actions.
-
-<sub>The code is private. Happy to talk through the design.</sub>
 
 ### Before that
 
